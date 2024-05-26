@@ -1,4 +1,4 @@
-package java.dsa.arrays;
+package dsa.arrays;
 
 public class LinearSearch 
 {

@@ -1,4 +1,6 @@
-package java.dsa.arrays;
+package dsa.arrays;
+
+
 import java.util.*;
 
 
